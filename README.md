@@ -18,7 +18,7 @@ It is schema-less, flexible, and designed to support future changes without data
 
 ###  Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/vipingautam07/deepthought-assignment
 cd task 1
 npm i
 npm start
